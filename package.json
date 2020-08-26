@@ -1,0 +1,24 @@
+{
+  "name": "an-apple-a-day",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlahmann/an-apple-a-day.git"
+  },
+  "keywords": [
+    "game",
+    "phaser",
+    "html"
+  ],
+  "author": "Tobias Lahmann (tobias.lahmann@uni-ulm.de)",
+  "license": "GNU GPL V3.0",
+  "bugs": {
+    "url": "https://github.com/tlahmann/an-apple-a-day/issues"
+  },
+  "homepage": "https://github.com/tlahmann/an-apple-a-day#readme"
+}
